@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @Pikachu14144
+- 👋 Hi, I’m Pikachu_
 - 🌱 I’m currently learning java
