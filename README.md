@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @Pikachu14144
-- 🌱 I’m currently learning JS, TS, C
+- 🌱 I’m currently learning java
