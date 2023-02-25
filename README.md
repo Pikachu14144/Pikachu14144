@@ -1,2 +1,1 @@
 - 👋 Hi, I’m Pikachu_
-- 🌱 I’m currently learning java
